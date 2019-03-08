@@ -18,7 +18,7 @@ public class Main {
 					twonum++;
 				}
 				if (StringUtils.contains(temp, 'B')) {
-					Bnum++;
+					//Bnum++;
 					Btwonum++;
 				}
 				if (StringUtils.contains(temp, '2') && StringUtils.contains(temp, 'B')) {
