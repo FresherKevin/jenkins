@@ -2,7 +2,9 @@ package cn.com.kevin.Test2;
 
 import org.apache.commons.lang3.StringUtils;
 
-
+/**
+	增加桩模块
+*/
 public class MainEx extends Main {
 	static String []exstr;
 	
