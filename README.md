@@ -1,2 +1,2 @@
 # jenkins
-use the jenkins to complete the project
+use the jenkins to test the project
